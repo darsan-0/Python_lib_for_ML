@@ -1,17 +1,17 @@
-📊 Matplotlib & Pandas Introduction (Google Colab)
+📊 Matplotlib, Pandas & NumPy Introduction (Google Colab)
 
-This repository contains my beginner-level practice work on Matplotlib and Pandas, done using Google Colab.
-The project focuses on learning data visualization and data handling in Python.
+This repository contains my beginner-level practice work on Matplotlib, Pandas, and NumPy, done using Google Colab.
+The project focuses on learning data handling, numerical computing, and data visualization in Python.
 
 🧠 What I Learned
 
-Basics of Matplotlib
+Basics of NumPy, Pandas, and Matplotlib
 
-Basics of Pandas
-
-Creating different types of plots
+Working with NumPy arrays for numerical operations
 
 Working with Pandas Series and DataFrames
+
+Creating different types of plots
 
 Visualizing data using Python
 
@@ -21,11 +21,33 @@ Working with Google Colab notebooks
 
 Python 🐍
 
-Matplotlib 📈
+NumPy 🔢
 
 Pandas 🐼
 
+Matplotlib 📈
+
 Google Colab ☁️
+
+📌 NumPy Topics Covered
+
+What is NumPy
+
+Creating NumPy arrays
+
+Array indexing and slicing
+
+Array shape and data types
+
+Basic array operations:
+
+Arithmetic operations
+
+Boolean filtering
+
+Aggregation functions (sum(), mean(), max(), min())
+
+Converting NumPy arrays to Pandas structures
 
 📌 Matplotlib Topics Covered
 
@@ -112,4 +134,4 @@ Click “Open in Colab”
 
 Run cells one by one
 
-✅ No installation needed – Matplotlib and Pandas come pre-installed in Colab
+✅ No installation needed – NumPy, Pandas, and Matplotlib come pre-installed in Colab
