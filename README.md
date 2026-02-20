@@ -31,7 +31,7 @@ Google Colab ☁️
 
 📌 NumPy Topics Covered
 
-What is NumPy
+What is NumPy ?
 
 Creating NumPy arrays
 
